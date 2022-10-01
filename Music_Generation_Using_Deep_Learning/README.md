@@ -9,14 +9,7 @@ On the 2nd approach, I used the ABC Sheet music data with LSTM. Which converted 
 This is a project which provided more learning in NLP and AI-Audio domain.
 
 
-### **Here is the demo outputs 📺**
-[![Watch the video](https://img.youtube.com/vi/KB00Bb9eRLk/maxresdefault.jpg)](https://youtu.be/KB00Bb9eRLk)
-<br>
-<br>
-[![Watch the video](https://img.youtube.com/vi/9vQPwuaiSL4/maxresdefault.jpg)](https://youtu.be/9vQPwuaiSL4)
-<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KB00Bb9eRLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Charecters used mostly in the inputed ABC sheet musics📊:**
 
